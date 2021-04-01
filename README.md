@@ -1,4 +1,4 @@
-# kJ
+# kJ 🔥
 
 kJ is a limited calorie-tracking that includes the features I actually use, without sharing health information with nefarious companies:
 
